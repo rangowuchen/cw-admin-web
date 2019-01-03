@@ -53,4 +53,24 @@ npm install style-loader --save-dev //安装style-loader 有些人安装的是 v
 sass和scss是两个不同的东西！只是相似！sass借鉴了ruby语言的规范很严格！代码里面也没有大括号！  
 这对于习惯用css{}的前端人员很难适应！于是就出现了scss!完美兼容css!还能有sass的功能！ 
 
+
+# vuex(详细内容后续添加)  
+>1,引入    
+npm install vuex --save   
+>2,使用    
+import Vue from 'vue';  
+import Vuex from 'vuex';  
+Vue.use(Vuex);  
+
+# path-to-regexp
+>1,引入    
+npm install path-to-regexp --save   
+>2,在js中使用    
+const pathToRegexp = require('path-to-regexp');
+>3,简介  
+该工具库用来处理 url 中地址与参数，能够很方便得到我们想要的数据。    
+js 中有 RegExp 方法做正则表达式校验，而 path-to-regexp 可以看成是 url 字符串的正则表达式。  
+[详细请点击](https://www.jianshu.com/p/7d2dbfdd1b0f)      
+
+
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
