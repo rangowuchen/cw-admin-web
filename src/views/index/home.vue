@@ -331,7 +331,7 @@
             .logo {
                 //width:230px;
                 height: 60px;
-                font-size: 22px;
+                font-size: 28px;
                 padding-left: 20px;
                 padding-right: 20px;
                 border-color: rgba(238, 241, 146, 0.3);
@@ -359,7 +359,7 @@
                 padding: 0;
             }
             .tools {
-                padding: 0px 23px;
+                // padding: 0px 23px;
                 width: 200px;
                 height: 60px;
                 line-height: 60px;
@@ -416,7 +416,7 @@
             .content-container {
                 flex: 1;
                 overflow-y: scroll;
-                padding: 0px 20px 20px 20px;
+                // padding: 0px 20px 20px 20px;
                 background: #f4f8fb;
                 .breadcrumb-container {
                     height: 40px;
