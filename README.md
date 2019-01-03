@@ -66,7 +66,7 @@ Vue.use(Vuex);
 >1,引入    
 npm install path-to-regexp --save   
 >2,在js中使用    
-const pathToRegexp = require('path-to-regexp');
+const pathToRegexp = require('path-to-regexp');  
 >3,简介  
 该工具库用来处理 url 中地址与参数，能够很方便得到我们想要的数据。    
 js 中有 RegExp 方法做正则表达式校验，而 path-to-regexp 可以看成是 url 字符串的正则表达式。  
