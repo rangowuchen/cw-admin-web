@@ -1,0 +1,2 @@
+webpackJsonp([0],{HGOU:function(e,t){},yRdp:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("el-card",[this._v("这是页面2")])],1)},staticRenderFns:[]};var c=n("VU/8")({},r,!1,function(e){n("HGOU")},null,null);t.default=c.exports}});
+//# sourceMappingURL=0.e158e5417a83ff37221a.js.map

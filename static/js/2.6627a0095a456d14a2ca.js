@@ -1,0 +1,2 @@
+webpackJsonp([2],{NqYC:function(e,n){},aqj6:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",[n("el-card",[this._v("DashBoard")])],1)},staticRenderFns:[]};var a=t("VU/8")(null,r,!1,function(e){t("NqYC")},null,null);n.default=a.exports}});
+//# sourceMappingURL=2.6627a0095a456d14a2ca.js.map
